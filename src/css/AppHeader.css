@@ -1,0 +1,27 @@
+.tiles1 {
+    background-color: #56AA1C;
+    float:left;
+    margin-left: 16px;
+    margin-top: 16px;
+    height:192px;
+    width:30%;
+}
+.tiles2 {
+    background-color: #56AA1C;
+    float:right;
+    margin-right: 16px;
+    height:192px;
+    width:30%;
+}
+.tiles3 {
+    background-color: #56AA1C;
+    float: right;
+    margin-right: 63px;
+    margin-top: -20px;
+    height:192px;
+    width:30%;
+}
+.something{
+    display: inline-block;
+    width: 100%;margin: 0%;
+}
